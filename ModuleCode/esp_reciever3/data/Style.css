@@ -1,0 +1,255 @@
+.main-header h1{
+
+	color: black;
+	font-family: Arial, Helvetica, sans-serif
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	font-size:60px;
+	padding:0px;
+
+
+}
+
+.main-header img {
+position:relative;
+width:10%;
+margin-left:7%;
+margin-top:-10%;
+
+
+}
+
+.main-header h2 {
+	margin-top:5px;
+	margin-left:30px;
+	color:#20CF00;
+	font-size:30px;
+	text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
+}
+
+body {
+	padding:20px;
+	margin:20px;
+	background-color:#EBFFFE;
+	color: #555555;
+	font-family:Arial, Helvetica, sans-serif;
+
+}
+
+
+.box-1 {
+	background-color: #333;
+	color:#fff;
+	border: 4px red solid;
+	margin-top:30px;
+	padding:30px;
+	border-radius:30px;
+	position:relative;
+
+}
+
+.box-1 h1 {
+	text-align:center;
+	text-decoration:underline;
+}
+
+.box-1 ul {
+	font-size:20px;
+}
+
+.box-1 p {
+	margin:20px;
+	font-size:20px;
+}
+
+.Refresh-Button {
+	position:absolute;
+	display:block;
+	margin-left:1650px;
+}
+
+
+.IntroductionImage img {
+ height:80vh;
+ width:130vh;
+ display: block;
+ margin-top:50px;
+ margin-left:auto;
+ margin-right:auto;
+ padding-top:0px;
+ margin-bottom:30px;
+ border-radius: 30px;
+ border-color:black;
+}
+
+.BadImage img {
+ width:70%;
+ height:80vh;
+ display: block;
+ margin-top:50px;
+ margin-left:auto;
+ margin-right:auto;
+ padding-top:0px;
+ border-radius: 30px;
+ border-color:black;
+}
+
+.OkayImage img {
+ width:70%;
+ display: block;
+ margin-top:50px;
+ margin-left:auto;
+ margin-right:auto;
+ padding-top:0px;
+ border-radius: 30px;
+ border-color:black;
+}
+
+.GoodImage img {
+ height:60vh;
+ width:100vh;
+ display: block;
+ margin-top:50px;
+ margin-left:auto;
+ margin-right:auto;
+ padding-top:0px;
+ margin-bottom:30px;
+ border-radius: 30px;
+ border-color:black;
+}
+
+.ExcellentImage img {
+   width: 60%;
+   height: 50vh;
+ display: block;
+ margin-top:50px;
+ margin-left:auto;
+ margin-right:auto;
+ padding-top:0px;
+ border-radius: 30px;
+ border-color:black;
+}
+
+.wind1 img{
+   width: 60%;
+   height: 50vh;
+ display: block;
+ margin-top:50px;
+ margin-left:auto;
+ margin-right:auto;
+ padding-top:0px;
+ border-radius: 30px;
+ border-color:black;
+}
+
+.solar1 img{
+   width: 60%;
+   height: 50vh;
+ display: block;
+ margin-top:50px;
+ margin-left:auto;
+ margin-right:auto;
+ padding-top:0px;
+ border-radius: 30px;
+ border-color:black;
+}
+
+.battery1 img{
+   width: 60%;
+   height: 50vh;
+ display: block;
+ margin-top:50px;
+ margin-left:auto;
+ margin-right:auto;
+ padding-top:0px;
+ border-radius: 30px;
+ border-color:black;
+}
+
+.battery2 img{
+   width: 60%;
+   height: 50vh;
+ display: block;
+ margin-top:50px;
+ margin-left:auto;
+ margin-right:auto;
+ padding-top:0px;
+ border-radius: 30px;
+ border-color:black;
+}
+
+.solar2 img{
+   width: 60%;
+   height: 50vh;
+ display: block;
+ margin-top:50px;
+ margin-left:auto;
+ margin-right:auto;
+ padding-top:0px;
+ border-radius: 30px;
+ border-color:black;
+}
+
+.wind2 img{
+   width: 60%;
+   height: 50vh;
+ display: block;
+ margin-top:50px;
+ margin-left:auto;
+ margin-right:auto;
+ padding-top:0px;
+ border-radius: 30px;
+ border-color:black;
+}
+
+.Progressheader h1{
+	padding-bottom:10px;
+	padding-top:30px;
+	text-align:center;
+	color:#20CF00;
+	text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.progress {
+	background-color: #d8d8d8;
+	border-radius: 20px;
+	position: relative;
+	margin: 15px 0;
+	margin-left:auto;
+	margin-right:auto;
+	height: 30px;
+	width: 300px;
+	z-index: -1; 
+	position:relative;
+}
+
+.progress-done {
+	background: linear-gradient(to left, #000000, #68FF6D);
+	box-shadow: 0 3px 3px -5px #000000, 0 2px 5px #68FF6D;
+	border-radius: 20px;
+	color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	width: 0;
+	opacity: 0;
+	transition: 1s ease 0.3s;
+}
+
+
+.progress-done {
+	background: linear-gradient(to left, #000000, #68FF6D);
+	box-shadow: 0 3px 3px -5px #000000, 0 2px 5px #68FF6D;
+	border-radius: 20px;
+	color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	width: 0;
+	opacity: 0;
+	transition: 1s ease 0.3s;
+}
